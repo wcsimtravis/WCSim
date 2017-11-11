@@ -7,10 +7,25 @@
   <th scope='col'><div align='center'>simple_test</div></th>
  </tr> 
  <tr>
+ <td>c9988e9a3f562fbff949fb026c5a7b0cf32c1edb</td>
+ <td> testing return type </td>
+  <td bgcolor="c9988e9a3f562fbff949fb026c5a7b0cf32c1edbPass1"><a href='c9988e9a3f562fbff949fb026c5a7b0cf32c1edbLink1'>c9988e9a3f562fbff949fb026c5a7b0cf32c1edbText1</td>
+  <td bgcolor="c9988e9a3f562fbff949fb026c5a7b0cf32c1edbPass2"><a href='c9988e9a3f562fbff949fb026c5a7b0cf32c1edbLink2'>c9988e9a3f562fbff949fb026c5a7b0cf32c1edbText2</td>
+ </tr>
+ 
+
+            <tr>
+            <th scope='col'><div align='center'>Commit ID</div></th>
+            <th scope='col'><div align='center'>Description</div></th>
+
+  <th scope='col'><div align='center'>WCSim_build</div></th>
+  <th scope='col'><div align='center'>simple_test</div></th>
+ </tr> 
+ <tr>
  <td>5745ce27ee494e42858d8229ad4afec356e716ed</td>
  <td>test</td>
   <td bgcolor="#00FF00"><a href='5745ce27ee494e42858d8229ad4afec356e716ed/log1'>3.53</td>
-  <td bgcolor="5745ce27ee494e42858d8229ad4afec356e716edPass2"><a href='5745ce27ee494e42858d8229ad4afec356e716edLink2'>5745ce27ee494e42858d8229ad4afec356e716edText2</td>
+  <td bgcolor="#00FF00"><a href='5745ce27ee494e42858d8229ad4afec356e716ed/index.html'>0.13</td>
  </tr>
  
 
@@ -47,14 +62,3 @@
             <tr>
             <th scope='col'><div align='center'>Commit ID</div></th>
             <th scope='col'><div align='center'>Description</div></th>
-
-  <th scope='col'><div align='center'>WCSim_build</div></th>
-  <th scope='col'><div align='center'>simple_test</div></th>
- </tr> 
- <tr>
- <td>123</td>
- <td></td>
-  <td bgcolor="#00FF00"><a href='123/log1'>3.66</td>
-  <td bgcolor="#00FF00"><a href='123/index.html'>0.17</td>
- </tr>
- 
