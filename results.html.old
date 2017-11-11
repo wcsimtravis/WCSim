@@ -1,14 +1,3 @@
-<head>
-<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\" />
-<title>WCSim Validation</title>
-</head>
-
-<body>
-<h1 align=\"center\">WCSim Validation</h1>
-
-<p>
-<table  border='1' align='center'>
-
 
             <tr>
             <th scope='col'><div align='center'>Commit ID</div></th>
@@ -20,7 +9,7 @@
  <tr>
  <td>cf8b2a09679c6e2d64f8164780dac47d4ce416bd</td>
  <td></td>
-  <td bgcolor="#00FF00"><a href='cf8b2a09679c6e2d64f8164780dac47d4ce416bd/log1'>3.58</td>
+  <td bgcolor="cf8b2a09679c6e2d64f8164780dac47d4ce416bdPass1"><a href='cf8b2a09679c6e2d64f8164780dac47d4ce416bdLink1'>cf8b2a09679c6e2d64f8164780dac47d4ce416bdText1</td>
   <td bgcolor="cf8b2a09679c6e2d64f8164780dac47d4ce416bdPass2"><a href='cf8b2a09679c6e2d64f8164780dac47d4ce416bdLink2'>cf8b2a09679c6e2d64f8164780dac47d4ce416bdText2</td>
  </tr>
  
@@ -39,9 +28,3 @@
   <td bgcolor="#00FF00"><a href='123/index.html'>0.17</td>
  </tr>
  
-
-</table>
-<h1 align='center'>&nbsp; </h1>
-</body>
-</html>
-
