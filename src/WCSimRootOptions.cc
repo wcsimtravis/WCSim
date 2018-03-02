@@ -25,7 +25,7 @@ WCSimRootOptions::~WCSimRootOptions()
 }
 
 //______________________________________________________________________________
-void WCSimRootOptions::Print()
+void WCSimRootOptions::Print(Option_t *) const
 {
   cout
     << "Detector construction:" << endl
@@ -44,6 +44,8 @@ void WCSimRootOptions::Print()
     << "\tDigitizerClassName: " << DigitizerClassName << endl
     << "\tDigitizerDeadTime: " << DigitizerDeadTime << " ns" << endl
     << "\tDigitizerIntegrationWindow: " << DigitizerIntegrationWindow << " ns" << endl
+    << "\tDigitizerTimingPrecision: " << DigitizerTimingPrecision << " ns" << endl
+    << "\tDigitizerPEPrecision: " << DigitizerPEPrecision << " ns" << endl
     << "Trigger options:" << endl
     << "\tTriggerClassName: " << TriggerClassName << endl
     << "\tMultiDigitsPerTrigger: " << MultiDigitsPerTrigger << endl
@@ -71,7 +73,7 @@ void WCSimRootOptions::Print()
     << "WCSimPrimaryGeneratorAction" << endl
     << "\tVectorFileName: " << VectorFileName << endl
     << "\tGeneratorType: " << GeneratorType << endl
-    << "WCSimPrimaryGeneratorAction" << endl
+    << "WCSimRandomParameters" << endl
     << "\tRandomSeed: " << RandomSeed << endl
     << "\tRandomGenerator: " << WCSimEnumerations::EnumAsString(RandomGenerator) << endl
     << endl;
